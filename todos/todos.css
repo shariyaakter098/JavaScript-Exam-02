@@ -1,0 +1,8 @@
+.todo-style{
+    color: blue;
+    background-color: darksalmon;
+    font-size: 30px;
+    padding: 10px;
+    margin: 40px;
+    border: 10px solid red;
+}

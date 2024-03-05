@@ -1,0 +1,26 @@
+.style{
+    color: blue;
+    background-color: cadetblue;
+    border: 10px solid purple;
+    border-radius: 10px;
+    margin: 40px;
+    padding: 10px;
+}
+.style h2{
+    color: darkgreen;
+    font-size: 20px;
+    
+}
+.style h3{
+    color: crimson;
+    font-weight: bold;
+    font-size: 25px;
+}
+.style h4{
+   
+    font-size: 30px;
+}
+.style p{
+    color:black;
+    font-size: 25px;
+}
